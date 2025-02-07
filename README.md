@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=8000&lines=Hi+WELCOME+TO+GITHUB+ME!+👋;+I'm.+RIFAN+JANUAR!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=8000&lines=Hi+WELCOME+TO+GITHUB+ME!;+I'm.+RIFAN+JANUAR!;" />
 </h1>
 
 <h3 align="center">A passionate UI/UX design, Game developer.</h3>
@@ -48,7 +48,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RifanJanuar115/RifanJanuar/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rifanjanuar115/rifanjanuar/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
