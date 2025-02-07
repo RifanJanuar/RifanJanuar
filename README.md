@@ -1,56 +1,84 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=8000&lines=Hi+WELCOME+TO+GITHUB+ME!;+I'm.+RIFAN+JANUAR!;" />
-</h1>
-
-<h3 align="center">A passionate UI/UX design, Game developer.</h3>
-
-<br/>
-
-[![MasterHead](https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rifan Januar</h1>
 
-<br/>
- <div align="center">
+###
 
-  🔭 I’m currently working on *Portofolio And Marketplace*
- 
- 🌱 I’m currently learning *CSS, C#,php,c++,dart,bootstrap Database and other.*
+<h3 align="center">A passionate UI/UX design, Game developer</h3>
 
-💬 Ask me about **HTML, CSS, C#,php,c++,dart... or anything [here](https://github.com/YuzakiOnly)**
+###
 
-⚡ Fun fact *I'm having so much fun in this coding world.*
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
- </div>
- 
-<div align="center"> 
-  <a href="RZenka115@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/RZenka115" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+###
+
+<h6 align="left">🔭 I’m currently working on Portofolio And Marketplace</h6>
+
+###
+
+<h6 align="left">🌱 I’m currently learning CSS, C#,php,c++,dart,bootstrap Database and other.</h6>
+
+###
+
+<h6 align="left">💬 Ask me about HTML, CSS, C#,php,c++,dart... or anything</h6>
+
+###
+
+<h6 align="left">📝 I wish to be successful in the future and build great relationships.</h6>
+
+###
+
+<h6 align="left">📫 How to reach me : RZenka115@gmail.com</h6>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+</div>
+
+###
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,cpp,html,css,laravel,dart,flutter,php,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rifanjanuar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifanjanuar&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<br/>
-<hr/>
+###
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img src="https://raw.githubusercontent.com/rifanjanuar/rifanjanuar/output/snake.svg" alt="Snake animation" />
-
-  <br/><br/><br/>
+  <img src="https://profile-counter.glitch.me/rifanjanuar/count.svg?"  />
 </div>
 
-<hr/>
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/RZ3nka">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=RZ3nka&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/rifanjanuar/rifanjanuar/output/snake.svg" alt="Snake animation" />
+
+###
