@@ -73,10 +73,6 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/RZ3nka">
-   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mnwaxy7axdonhscadcyjjl6sqy)
-   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mnwaxy7axdonhscadcyjjl6sqy&count={count})
-   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mnwaxy7axdonhscadcyjjl6sqy&width={width})
-   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mnwaxy7axdonhscadcyjjl6sqy&unique={true|1|on|yes})
   </a>
 </div>
 
